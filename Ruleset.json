@@ -1,3 +1,4 @@
+[
 {
   "name": "Attemp Towards Heaven",
   "description": "Get a bite of this cultivation-world",
@@ -8,5 +9,6 @@
   "TerrainsPath": "Terrains.json",
   "tileImprovementsPath": "TileImprovements.json",
   "nationsPath": "Civilizations.json",
-  "modUrl": "https://github.com/user-attachments/files/23844068/Attempt-Towards-Heaven-main.zip"
+  "modUrl": "https://github.com/shinigami-web/Attempt-Towards-Heaven/archive/refs/heads/main.zip"
 }
+]
