@@ -1,7 +1,7 @@
 {
   "name": "Attemp Towards Heaven",
   "description": "Get a bite of this cultivation-world",
-  "version": "1.0",
+  "version": "4",
   "dependencies": "[]",
   "UnitsPath": "Units.json",
   "BuildingsPath": "Buildings.json",
