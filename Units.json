@@ -1,3 +1,4 @@
+[
 {
   "name": "Cultivator",
   "replaces": "Warrior",
@@ -6,3 +7,4 @@
   "movement": 3,
   "uniques": ["Bonus vs Barbarians"]
 }
+]
