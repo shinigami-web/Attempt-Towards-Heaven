@@ -1,0 +1,12 @@
+{
+  "name": "Attemp Towards Heaven",
+  "description": "Get a bite of this cultivation-world",
+  "version": "1.0",
+  "dependencies": "[]",
+  "UnitsPath": "Units.json",
+  "BuildingsPath": "Buildings.json",
+  "TechnologiesPath": "Technologies.json",
+  "TerrainsPath": "Terrains.json",
+  "tileImprovementsPath": "TileImprovements.json",
+  "nationsPath": "Civilization.json",
+}
