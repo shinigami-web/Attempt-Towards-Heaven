@@ -1,0 +1,8 @@
+{
+  "name": "Cultivator",
+  "replaces": "Warrior",
+  "cost": 40,
+  "strength": 9,
+  "movement": 3,
+  "uniques": ["Bonus vs Barbarians"]
+}
