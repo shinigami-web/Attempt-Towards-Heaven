@@ -9,4 +9,5 @@
   "TerrainsPath": "Terrains.json",
   "tileImprovementsPath": "TileImprovements.json",
   "nationsPath": "Civilization.json",
+  "modUrl": "https://github.com/shinigami-web/Attempt-Towards-Heaven/archive/refs/heads/main.zip"
 }
